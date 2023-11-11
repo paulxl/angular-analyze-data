@@ -1,0 +1,27 @@
+<main>
+    <div class="stateTable">
+        <h2 class="centeredItem">{{title}}</h2>
+        <mat-table [dataSource]="states">
+            <ng-container matColumnDef="NAME">
+                <th mat-header-cell *matHeaderCellDef> STATE  </th>
+                <td mat-cell *matCellDef="let states"> {{states.NAME}} </td>
+            </ng-container>
+            <ng-container matColumnDef="POPESTIMATE2020">
+                <th mat-header-cell *matHeaderCellDef> 2020 Pop </th>
+                <td mat-cell *matCellDef="let states"> {{states.POPESTIMATE2020}} </td>
+            </ng-container>
+            <ng-container matColumnDef="POPESTIMATE2021">
+                <th mat-header-cell *matHeaderCellDef> 2021 Pop </th>
+                <td mat-cell *matCellDef="let states"> {{states.POPESTIMATE2021}} </td>
+            </ng-container>
+            <ng-container matColumnDef="POPESTIMATE2022">
+                <th mat-header-cell *matHeaderCellDef> 2022 Pop </th>
+                <td mat-cell *matCellDef="let states"> {{states.POPESTIMATE2022}} </td>
+            </ng-container>
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+        </mat-table>
+
+    </div>
+</main>

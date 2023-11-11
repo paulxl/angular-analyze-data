@@ -1,0 +1,320 @@
+[
+    {
+        "NAME": "United States",
+        "POPESTIMATE2020": 331511512,
+        "POPESTIMATE2021": 332031554,
+        "POPESTIMATE2022": 333287557
+    },
+    {
+        "NAME": "Alabama",
+        "POPESTIMATE2020": 5031362,
+        "POPESTIMATE2021": 5049846,
+        "POPESTIMATE2022": 5074296
+    },
+    {
+        "NAME": "Alaska",
+        "POPESTIMATE2020": 732923,
+        "POPESTIMATE2021": 734182,
+        "POPESTIMATE2022": 733583
+    },
+    {
+        "NAME": "Arizona",
+        "POPESTIMATE2020": 7179943,
+        "POPESTIMATE2021": 7264877,
+        "POPESTIMATE2022": 7359197
+    },
+    {
+        "NAME": "Arkansas",
+        "POPESTIMATE2020": 3014195,
+        "POPESTIMATE2021": 3028122,
+        "POPESTIMATE2022": 3045637
+    },
+    {
+        "NAME": "California",
+        "POPESTIMATE2020": 39501653,
+        "POPESTIMATE2021": 39142991,
+        "POPESTIMATE2022": 39029342
+    },
+    {
+        "NAME": "Colorado",
+        "POPESTIMATE2020": 5784865,
+        "POPESTIMATE2021": 5811297,
+        "POPESTIMATE2022": 5839926
+    },
+    {
+        "NAME": "Connecticut",
+        "POPESTIMATE2020": 3597362,
+        "POPESTIMATE2021": 3623355,
+        "POPESTIMATE2022": 3626205
+    },
+    {
+        "NAME": "Delaware",
+        "POPESTIMATE2020": 992114,
+        "POPESTIMATE2021": 1004807,
+        "POPESTIMATE2022": 1018396
+    },
+    {
+        "NAME": "District of Columbia",
+        "POPESTIMATE2020": 670868,
+        "POPESTIMATE2021": 668791,
+        "POPESTIMATE2022": 671803
+    },
+    {
+        "NAME": "Florida",
+        "POPESTIMATE2020": 21589602,
+        "POPESTIMATE2021": 21828069,
+        "POPESTIMATE2022": 22244823
+    },
+    {
+        "NAME": "Georgia",
+        "POPESTIMATE2020": 10729828,
+        "POPESTIMATE2021": 10788029,
+        "POPESTIMATE2022": 10912876
+    },
+    {
+        "NAME": "Hawaii",
+        "POPESTIMATE2020": 1451043,
+        "POPESTIMATE2021": 1447154,
+        "POPESTIMATE2022": 1440196
+    },
+    {
+        "NAME": "Idaho",
+        "POPESTIMATE2020": 1849202,
+        "POPESTIMATE2021": 1904314,
+        "POPESTIMATE2022": 1939033
+    },
+    {
+        "NAME": "Illinois",
+        "POPESTIMATE2020": 12786580,
+        "POPESTIMATE2021": 12686469,
+        "POPESTIMATE2022": 12582032
+    },
+    {
+        "NAME": "Indiana",
+        "POPESTIMATE2020": 6788799,
+        "POPESTIMATE2021": 6813532,
+        "POPESTIMATE2022": 6833037
+    },
+    {
+        "NAME": "Iowa",
+        "POPESTIMATE2020": 3190571,
+        "POPESTIMATE2021": 3197689,
+        "POPESTIMATE2022": 3200517
+    },
+    {
+        "NAME": "Kansas",
+        "POPESTIMATE2020": 2937919,
+        "POPESTIMATE2021": 2937922,
+        "POPESTIMATE2022": 2937150
+    },
+    {
+        "NAME": "Kentucky",
+        "POPESTIMATE2020": 4507445,
+        "POPESTIMATE2021": 4506589,
+        "POPESTIMATE2022": 4512310
+    },
+    {
+        "NAME": "Louisiana",
+        "POPESTIMATE2020": 4651664,
+        "POPESTIMATE2021": 4627098,
+        "POPESTIMATE2022": 4590241
+    },
+    {
+        "NAME": "Maine",
+        "POPESTIMATE2020": 1363557,
+        "POPESTIMATE2021": 1377238,
+        "POPESTIMATE2022": 1385340
+    },
+    {
+        "NAME": "Maryland",
+        "POPESTIMATE2020": 6173205,
+        "POPESTIMATE2021": 6174610,
+        "POPESTIMATE2022": 6164660
+    },
+    {
+        "NAME": "Massachusetts",
+        "POPESTIMATE2020": 6995729,
+        "POPESTIMATE2021": 6989690,
+        "POPESTIMATE2022": 6981974
+    },
+    {
+        "NAME": "Michigan",
+        "POPESTIMATE2020": 10069577,
+        "POPESTIMATE2021": 10037504,
+        "POPESTIMATE2022": 10034113
+    },
+    {
+        "NAME": "Minnesota",
+        "POPESTIMATE2020": 5709852,
+        "POPESTIMATE2021": 5711471,
+        "POPESTIMATE2022": 5717184
+    },
+    {
+        "NAME": "Mississippi",
+        "POPESTIMATE2020": 2958141,
+        "POPESTIMATE2021": 2949586,
+        "POPESTIMATE2022": 2940057
+    },
+    {
+        "NAME": "Missouri",
+        "POPESTIMATE2020": 6153998,
+        "POPESTIMATE2021": 6169823,
+        "POPESTIMATE2022": 6177957
+    },
+    {
+        "NAME": "Montana",
+        "POPESTIMATE2020": 1087075,
+        "POPESTIMATE2021": 1106227,
+        "POPESTIMATE2022": 1122867
+    },
+    {
+        "NAME": "Nebraska",
+        "POPESTIMATE2020": 1962642,
+        "POPESTIMATE2021": 1963554,
+        "POPESTIMATE2022": 1967923
+    },
+    {
+        "NAME": "Nevada",
+        "POPESTIMATE2020": 3115648,
+        "POPESTIMATE2021": 3146402,
+        "POPESTIMATE2022": 3177772
+    },
+    {
+        "NAME": "New Hampshire",
+        "POPESTIMATE2020": 1378587,
+        "POPESTIMATE2021": 1387505,
+        "POPESTIMATE2022": 1395231
+    },
+    {
+        "NAME": "New Jersey",
+        "POPESTIMATE2020": 9271689,
+        "POPESTIMATE2021": 9267961,
+        "POPESTIMATE2022": 9261699
+    },
+    {
+        "NAME": "New Mexico",
+        "POPESTIMATE2020": 2118390,
+        "POPESTIMATE2021": 2116677,
+        "POPESTIMATE2022": 2113344
+    },
+    {
+        "NAME": "New York",
+        "POPESTIMATE2020": 20108296,
+        "POPESTIMATE2021": 19857492,
+        "POPESTIMATE2022": 19677151
+    },
+    {
+        "NAME": "North Carolina",
+        "POPESTIMATE2020": 10449445,
+        "POPESTIMATE2021": 10565885,
+        "POPESTIMATE2022": 10698973
+    },
+    {
+        "NAME": "North Dakota",
+        "POPESTIMATE2020": 779518,
+        "POPESTIMATE2021": 777934,
+        "POPESTIMATE2022": 779261
+    },
+    {
+        "NAME": "Ohio",
+        "POPESTIMATE2020": 11797517,
+        "POPESTIMATE2021": 11764342,
+        "POPESTIMATE2022": 11756058
+    },
+    {
+        "NAME": "Oklahoma",
+        "POPESTIMATE2020": 3964912,
+        "POPESTIMATE2021": 3991225,
+        "POPESTIMATE2022": 4019800
+    },
+    {
+        "NAME": "Oregon",
+        "POPESTIMATE2020": 4244795,
+        "POPESTIMATE2021": 4256301,
+        "POPESTIMATE2022": 4240137
+    },
+    {
+        "NAME": "Pennsylvania",
+        "POPESTIMATE2020": 12994440,
+        "POPESTIMATE2021": 13012059,
+        "POPESTIMATE2022": 12972008
+    },
+    {
+        "NAME": "Rhode Island",
+        "POPESTIMATE2020": 1096345,
+        "POPESTIMATE2021": 1096985,
+        "POPESTIMATE2022": 1093734
+    },
+    {
+        "NAME": "South Carolina",
+        "POPESTIMATE2020": 5131848,
+        "POPESTIMATE2021": 5193266,
+        "POPESTIMATE2022": 5282634
+    },
+    {
+        "NAME": "South Dakota",
+        "POPESTIMATE2020": 887799,
+        "POPESTIMATE2021": 896164,
+        "POPESTIMATE2022": 909824
+    },
+    {
+        "NAME": "Tennessee",
+        "POPESTIMATE2020": 6925619,
+        "POPESTIMATE2021": 6968351,
+        "POPESTIMATE2022": 7051339
+    },
+    {
+        "NAME": "Texas",
+        "POPESTIMATE2020": 29232474,
+        "POPESTIMATE2021": 29558864,
+        "POPESTIMATE2022": 30029572
+    },
+    {
+        "NAME": "Utah",
+        "POPESTIMATE2020": 3283785,
+        "POPESTIMATE2021": 3339113,
+        "POPESTIMATE2022": 3380800
+    },
+    {
+        "NAME": "Vermont",
+        "POPESTIMATE2020": 642893,
+        "POPESTIMATE2021": 646972,
+        "POPESTIMATE2022": 647064
+    },
+    {
+        "NAME": "Virginia",
+        "POPESTIMATE2020": 8636471,
+        "POPESTIMATE2021": 8657365,
+        "POPESTIMATE2022": 8683619
+    },
+    {
+        "NAME": "Washington",
+        "POPESTIMATE2020": 7724031,
+        "POPESTIMATE2021": 7740745,
+        "POPESTIMATE2022": 7785786
+    },
+    {
+        "NAME": "West Virginia",
+        "POPESTIMATE2020": 1791420,
+        "POPESTIMATE2021": 1785526,
+        "POPESTIMATE2022": 1775156
+    },
+    {
+        "NAME": "Wisconsin",
+        "POPESTIMATE2020": 5896271,
+        "POPESTIMATE2021": 5880101,
+        "POPESTIMATE2022": 5892539
+    },
+    {
+        "NAME": "Wyoming",
+        "POPESTIMATE2020": 577605,
+        "POPESTIMATE2021": 579483,
+        "POPESTIMATE2022": 581381
+    },
+    {
+        "NAME": "Puerto Rico",
+        "POPESTIMATE2020": 3281557,
+        "POPESTIMATE2021": 3262693,
+        "POPESTIMATE2022": 3221789
+    }
+]
