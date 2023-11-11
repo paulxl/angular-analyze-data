@@ -1,11 +1,7 @@
 <body>
     <header>
         <nav>
-           <button mat-button class="primaryNavButton" [routerLink]="['home']">Home</button>
-            <!-- <mat-menu #homeMenu="matMenu" yPosition="below">
-                <button mat-menu-item [routerLink]="">Item 10</button>
-                <button mat-menu-item [routerLink]="">Item 20</button>
-            </mat-menu> -->
+            <button mat-button class="primaryNavButton" [routerLink]="['home']">Home</button>
             <button mat-button class="primaryNavButton" [matMenuTriggerFor]="dataMenu">Working With Data</button>
             <mat-menu #dataMenu="matMenu" yPosition="below">
                 <button mat-menu-item [routerLink]="['state-pops']">State Populations</button>
@@ -13,6 +9,7 @@
             </mat-menu>
             <button mat-button class="primaryNavButton" [matMenuTriggerFor]="graphingMenu">Graphing</button>
             <mat-menu #graphingMenu="matMenu" yPosition="below">
+                <button mat-menu-item [routerLink]="['randomness']">Randomness</button>
                 <button mat-menu-item [routerLink]="['barD3']">d3 Bar Graph</button>
                 <button mat-menu-item [routerLink]="['pieD3']">d3 Pie Graph</button>
                 <button mat-menu-item [routerLink]="['scatterD3']">d3 Scatter Graph</button>
@@ -23,7 +20,6 @@
                 <button mat-menu-item [routerLink]="['']">data 2</button>
                 <button mat-menu-item [routerLink]="['']">data 3</button>
             </mat-menu>
-
         </nav>
     </header>
 </body>
