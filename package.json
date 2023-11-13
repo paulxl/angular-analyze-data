@@ -1,6 +1,8 @@
 {
   "name": "angular-analyze-data",
   "version": "0.0.0",
+  "author": "paulxl",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

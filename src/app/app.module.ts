@@ -15,6 +15,7 @@ import { LodashPlayComponent } from './lodash-play/lodash-play.component';
 import { BarD3Component } from './bar-d3/bar-d3.component';
 import { PieD3Component } from './pie-d3/pie-d3.component';
 import { ScatterD3Component } from './scatter-d3/scatter-d3.component';
+import { RandomnessComponent } from './randomness/randomness.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { ScatterD3Component } from './scatter-d3/scatter-d3.component';
     BarD3Component,
     PieD3Component,
     ScatterD3Component,
+    RandomnessComponent,
 
   ],
   imports: [
